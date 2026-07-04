@@ -458,27 +458,23 @@ ollama pull nomic-embed-text
 
 *Visual representations of the platform in action.*
 
-<div align="center">
-  <img src="./screenshots/demo.gif" alt="Platform Demo" width="800"/>
-</div>
-
 ### Home Dashboard
-![Home Dashboard](./screenshots/home.png)
+![Home Dashboard](./screenshots/antigravity%20cli.png)
 
 ### Live Execution Logs
-![Execution Logs](./screenshots/execution.png)
+![Execution Logs](./screenshots/log%20of%20agents%20running.png)
 
 ### Research & Company Profile
-![Research](./screenshots/research.png)
+![Research](./screenshots/antigravity%20code%20preview.png)
 
 ### Business Analysis & Mapping
-![Business Analysis](./screenshots/analysis.png)
+![Business Analysis](./screenshots/bussinness%20analysis%20by%20the%20agent.png)
 
 ### The Critic Agent in Action
-![Critic](./screenshots/critic.png)
+![Critic](./screenshots/critic%20agnet.png)
 
 ### Final Outreach Output
-![Final Outreach](./screenshots/outreach.png)
+![Final Outreach](./screenshots/final%20oputreach%20by%20agent.png)
 
 ---
 
