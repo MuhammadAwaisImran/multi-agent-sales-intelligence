@@ -635,5 +635,5 @@ This project was made possible by incredible open-source projects, platforms, an
 ---
 
 <div align="center">
-  <i>Built with ❤️ by Open Source Engineers.</i>
+  <i>Built with ❤️ by Muhammad Awais.</i>
 </div>
